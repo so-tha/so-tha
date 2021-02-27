@@ -2,7 +2,7 @@
 
 Sou academica de Analise e Desenvolvimento de Sistemas na Unicesumar. Estou atualmente estudando JavaScript/Html/CSS, mas o meu foco é o back end. 
 
-Amo de livros de ficção e musica dos anos 60. 
+Amante de livros de ficção e musica dos anos 60. 
 
 Lugares onde você pode me encontrar:
 
