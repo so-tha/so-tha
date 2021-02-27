@@ -1,6 +1,6 @@
 ### Olá pessoas, eu sou a Thais! 🌳
 
-Sou academica de Analise e Desenvolvimento de Sistemas na Unicesumar. Estou atualmente estudando JavaScript/Html/CSS, mas o meu foco é o back end. 
+Sou academica de Analise e Desenvolvimento de Sistemas na Unicesumar. Estou atualmente estudando JavaScript/Html/CSS, e o meu interesse é o back end. 
 
 Amante de livros de ficção e musica dos anos 60. 
 
