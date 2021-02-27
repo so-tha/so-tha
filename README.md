@@ -2,7 +2,9 @@
 
 Sou academica de Analise e Desenvolvimento de Sistemas na Unicesumar. Estou atualmente estudando JavaScript/Html/CSS, mas o meu foco é o back end. 
 
-Amante de livros e de animes. Lugares onde você pode me encontrar:
+Amo de livros de ficção e musica dos anos 60. 
+
+Lugares onde você pode me encontrar:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/so-tha)](https://github.com/so-tha)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thais-souza-4b9ba1182/)](https://www.linkedin.com/in/thais-souza-4b9ba1182/)
