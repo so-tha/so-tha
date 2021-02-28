@@ -4,9 +4,6 @@ Sou academica de Analise e Desenvolvimento de Sistemas na Unicesumar. Estou atua
 
 Amante de livros de ficção e musica dos anos 60. 
 
-![Alt Text](https://github.com/{so-tha}/{repo}/raw/{branch}/path/to/![Alt Text](https://github.com/{user}/{repo}/raw/{branch}/path/to/image.gif)
-)
-
 
 Lugares onde você pode me encontrar:
 
