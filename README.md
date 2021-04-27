@@ -1,9 +1,10 @@
 <img align="right" width="250" height="150" src="http://meyerweb.com/bkkt/css.gif">
-### Olá pessoas, eu sou a Thais! 🌳
+###Olá pessoas, eu sou a Thais! 🌳
+
 <br>
 Sou academica de Analise e Desenvolvimento de Sistemas na Unicesumar. Estou atualmente estudando JavaScript/Html/CSS, e o meu interesse é o back end. 
 
-Amante de livros de ficção e musica dos anos 60. 
+Amo livros de ficção cientifica e animes. 
 
 
 Lugares onde você pode me encontrar:
