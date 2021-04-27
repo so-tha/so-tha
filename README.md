@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://assets.pinterest.com/ext/embed.html?id=394627986104932830">
+<img align="right" width="250" height="150" src="http://meyerweb.com/bkkt/css.gif">
 ### Olá pessoas, eu sou a Thais! 🌳
 
 Sou academica de Analise e Desenvolvimento de Sistemas na Unicesumar. Estou atualmente estudando JavaScript/Html/CSS, e o meu interesse é o back end. 
