@@ -2,7 +2,7 @@
 
 <h1>Olá pessoas, eu sou a Thais! 🌳</h1>
 
-Sou academica de Analise e Desenvolvimento de Sistemas na Unicesumar. Estou atualmente estudando JavaScript/Html/CSS, e o meu interesse é o back end. 
+Sou academica de Ciencia da Computação no IFSMG. Estou atualmente estudando JavaScript/Html/CSS, e o meu interesse é o back end. 
 
 Amo livros de ficção cientifica e animes. 
 
