@@ -1,7 +1,7 @@
 <img align="right" width="250" height="150" src="http://meyerweb.com/bkkt/css.gif">
 
 
-
+<img align="right" width="250" height="150" src="https://assets.pinterest.com/ext/embed.html?id=780811654122833705">
 💫 21 anos.
 Estudante de Ciencia da Computação no IFsudesteMG e atualmente aprendendo Javascript e C++. 💫
 
