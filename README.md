@@ -1,10 +1,11 @@
 <img align="right" width="250" height="150" src="http://meyerweb.com/bkkt/css.gif">
 
-<h1>Olá pessoas, eu sou a Thais! 🌳</h1>
 
-Sou academica de Ciencia da Computação no IFSEMG. Estou atualmente estudando JavaScript/Html/CSS, e o meu interesse é o back end. 
 
-Amo livros de ficção cientifica e animes. 
+💫 21 anos.Estudante de Ciencia da Computação no IFsudesteMG e atualmente aprendendo Javascript e C++. 💫
+
+
+
 
 
 Lugares onde você pode me encontrar:
