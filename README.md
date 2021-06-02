@@ -9,9 +9,6 @@ Meu nome é Thais, sou graduanda de Ciência da Computação no IFsudesteMG.
 - 🤝 Apaixonada por animes e musicas estranhas.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=GLSL,Rust)](https://github.com/so-tha/github-readme-stats)
-
-
 
 
 Minhas outras redes sociais: <br>
