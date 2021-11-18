@@ -1,6 +1,6 @@
  
 ### Olá Pessoas👋
-Meu nome é Thais, sou graduanda de Ciência da Computação no Instituto Federal do Sudeste de Minas Gerais.
+Meu nome é Thais, sou graduanda de Ciência da Computação no Instituto Federal do Sudeste de Minas Gerais - Campus Rio Pomba
 
 
 - 🔭 Atualmente estudando C++, e aperfeiçoando meus conhecimentos em linguagens para Web (HMTL,CSS,JS).
