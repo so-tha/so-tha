@@ -1,8 +1,8 @@
- 
+ <img src ="https://th.bing.com/th/id/R.c6dd43d4562a8e1a7c51ba3bd597eedc?rik=A8DhuUB618uuwA&pid=ImgRaw&r=0" width="280" >
 
 You can call me Thais, my pronouns are she/her, and I'm a Computer Science student at IFSEMG.
 
-- 🌱 I love to learn about the universe and play The sims 4. ![](https://www.pinterest.pt/pin/3729612188966233/)
+- 🌱 I love to learn about the universe and play The sims 4. 
 - 🌱 Currently, learn C++, Phyton and PHP. 
 
 Places where you can find me: <br>
