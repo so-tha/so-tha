@@ -2,7 +2,7 @@
 
 You can call me Thais, my pronouns are she/her, and I'm a Computer Science student at IFSEMG.
 
-- 🌱 I love to learn about the universe and play The sims 4. [<img src="https://assets.pinterest.com/ext/embed.html?id=3729612188966233" height="445" width="345" frameborder="0" scrolling="no" />]
+- 🌱 I love to learn about the universe and play The sims 4. ![](https://www.pinterest.pt/pin/3729612188966233/)
 - 🌱 Currently, learn C++, Phyton and PHP. 
 
 Places where you can find me: <br>
