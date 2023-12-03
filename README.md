@@ -1,4 +1,3 @@
-<img src ="https://th.bing.com/th/id/R.c6dd43d4562a8e1a7c51ba3bd597eedc?rik=A8DhuUB618uuwA&pid=ImgRaw&r=0" width="280" >
 My name is Thais and my pronouns are she/her.
 I'm a Computer Science student at IFSEMG.
 
