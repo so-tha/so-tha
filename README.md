@@ -7,6 +7,6 @@
 🚀 Currently
 
 - Exploring Data Automation and Back-end Development
-- Learning more about React and Next.js
+- Learning more about C#.
 - Expanding knowledge in algorithms and clean code
 
